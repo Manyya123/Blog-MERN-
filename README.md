@@ -1,4 +1,4 @@
-# Full Stack Blog App Project using MERN
+# Full Stack Blogging Application using MERN Stack
 
 Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
 
