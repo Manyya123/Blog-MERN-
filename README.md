@@ -1,6 +1,6 @@
 # Full Stack Blogging Application using MERN Stack
 
-Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
+<Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)>
 
 ## Technologies used 
 1. HTML
