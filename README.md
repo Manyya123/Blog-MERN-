@@ -1,6 +1,6 @@
 # Full Stack Blogging Application using MERN Stack
 
-Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
+<!---Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)-->
 
 ## Technologies used 
 1. HTML
@@ -10,16 +10,7 @@ Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
 
 - Node JS, Express JS and MongoDb is used for Backend server which is deployed on Render.
 
-## Features:
-User registration and login
-Authentication using JWT Tokens
-Story searching and pagination
-CRUD operations (Story create, read, update and delete)
-Upload user ımages and story ımages to the server
-Liking stories and adding stories to the Reading list
-Commenting on the story
-Skeleton loading effect
-Responsive Design
+<!--
 1. User Authentication (Signup, Login and Logout)
 2. Proper Landing page with Recent Blogs
 3. Product Listing Page
@@ -85,7 +76,7 @@ Fullstack open source blogging application made with MongoDB, Express, React & N
   * [Author](#author)
   * [License](#license)
 
-
+-->
 ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
@@ -95,36 +86,33 @@ In order to run this project locally, simply fork and clone the repository or do
 - Split your terminal into two (run the Frontend on one terminal and the Backend on the other terminal)
 
 In the first terminal
+- cd client and set your web-app's Firebase configuration
+- Set environment variables in .env file in src folder
+```
+#  ---  .env  ---
+
+VITE_FIREBASE_API_KEY=
 
 ```
-$ cd Frontend
+```
+# --- Terminal ---
+$ cd client
 $ npm install (to install frontend-side dependencies)
-$ npm run  start (to start the frontend)
+$ npm run dev (to start the frontend)
 ```
 
 In the second terminal
 
-- cd Backend and Set environment variables in config.env under ./config
-- Create your mongoDB connection url, which you'll use as your MONGO_URI
+- cd Backend and Set environment variables in .env file
+- Create your mongoDB connection url, which you'll use as your MONGO (MongoDB URI)
 - Supply the following credentials
 
 ```
-#  ---  Config.env  ---
+#  ---  .env  ---
 
-NODE_ENV = development
-PORT =5000
-URI =http://localhost:3000
-MONGO_URI =
+MONGO =
 JWT_SECRET_KEY =
-JWT_EXPIRE = 60m
-RESET_PASSWORD_EXPIRE = 3600000 
 
-# Nodemailer
-
-SMTP_HOST =smtp.gmail.com
-SMTP_PORT =587
-EMAIL_USERNAME = example@gmail.com
-EMAIL_PASS = your_password
 ```
 
 
@@ -132,21 +120,26 @@ EMAIL_PASS = your_password
 # --- Terminal ---
 
 $ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
+$ npm start dev (to start the backend)
 ```
 
 ##  Key Features
 
+- Proper Landing page with recent Blogs
 - User registration and login
 - Authentication using JWT Tokens
-- Story searching  and pagination 
-- CRUD operations (Story create, read, update and delete)
-- Upload user ımages and story ımages  to the server
-- Liking  stories and adding stories  to the Reading list
+- Admin Dashboard 
+- Blog searching  and pagination 
+- CRUD operations
+       1) Blog create, read, update and delete
+       2) Comment  create, read, update and delete
+       3) Users create, read, update and delete
+- Upload user ımages and story ımages to the server
+- Liking  stories
 - Commenting  on the story
-- Skeleton loading effect
 - Responsive Design
-
+  
+<!--
 <br/>
 
 ##  Technologies used
@@ -200,3 +193,4 @@ This project was created using the following technologies.
 - Sponsor: [berthutapea](https://saweria.co/berthutapea)
 - Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
 - Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+-->
