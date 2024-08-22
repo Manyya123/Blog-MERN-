@@ -123,29 +123,53 @@ $ npm start dev (to start the backend)
 
 ## Screenshots
 ## Home Page
-<img src="./images/Home_Page.png" alt="Home Page-1" width="400"/>
-<img src="./images/Recent_Post.png" alt="Home Page-2" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/Home_Page.png" alt="Home Page-1" width="500"  style="display: inline-block; margin: 10px;"/>
+  <img src="./images/Recent_Post.png" alt="Home Page-2" width="500"  style="display: inline-block; margin: 10px;"/>
+</div>
 
 ## Blogs Listing Page
-<img src="./images/Blogs.png" alt="Blogs Listing Page" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/Blogs.png" alt="Blogs Listing Page" width="600" style="margin: 10px;"/>
+</div>
 
 ## Single Blog Page
-<img src="./images/Sample_Post.png" alt="Single Blog Page" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/Sample_Post.png" alt="Single Blog Page" width="600" style="margin: 10px;"/>
+</div>
 
 ## About Page
-<img src="./images/About_Page.png" alt="About Page" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/About_Page.png" alt="About Page" width="600" style="margin: 10px;"/>
+</div>
 
 ## Users Dashboard
-<img src="./images/User_Dashboard.png" alt="Users Dashboard" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/User_Dashboard.png" alt="Users Dashboard" width="600" style="margin: 10px;"/>
+</div>
 
 ## Admin Dashboard
-<img src="./images/Admin_Dashboard.png" alt="Admin Dashboard" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/Admin_Dashboard.png" alt="Admin Dashboard" width="600" style="margin: 10px;"/>
+</div>
 
 ## Create Post
-<img src="./images/Create_Post.png" alt="Create Post" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/Create_Post.png" alt="Create Post" width="600" style="margin: 10px;"/>
+</div>
 
 ## Comments Section
-<img src="./images/Comments_Section.png" alt="Comments Section" width="400"/>
+
+<div style="text-align: center;">
+  <img src="./images/Comments_Section.png" alt="Comments Section" width="600" style="margin: 10px;"/>
+</div>
 
 
 <!--
