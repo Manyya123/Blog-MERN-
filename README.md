@@ -6,7 +6,7 @@
 3. JavaScript
 4. React
 
-- Node JS, Express JS and MongoDb is used for Backend server which is deployed on Render.
+- Node JS, Express JS and MongoDb is used for Backend server.
 
 ## Configuration and Setup
 
