@@ -122,10 +122,9 @@ $ npm start dev (to start the backend)
 - Responsive Design
 
 ## Screenshots
-
 ### Home Page
-![Home Page-1](.\images\Home_Page.png)</br>
-![Home Page-2](.\images\Recent_Post.png)
+![Home Page-1](./images/Home_Page.png)</br>
+![Home Page-2](./images/Recent_Post.png)
 
 ### Blogs Listing Page
 ![Blogs Listing Page](.\images\Blogs.png)
@@ -140,7 +139,7 @@ $ npm start dev (to start the backend)
 ![Users Dashboard](.\images\User_Dashboard.png)
 
 ### Admin Dashboard
-![Users Dashboard](.\images\User_Dashboard.png)
+![Users Dashboard](.\images\Admin_Dashboard.png)
 
 ### Create Post
 ![Create Post](.\images\Create_Post.png)
