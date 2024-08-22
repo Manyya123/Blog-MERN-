@@ -41,25 +41,6 @@
 
 ## You can report issues on this project using Github issue 
 1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-
-## Screenshots
-
-### Home Page
-
-### Product Listing Page
-
-### User Authentication Pages
-
-### Single Product Page
-
-### Wishlist Page
-
-### Cart Page
-
-### Razorpay integration
-
-### Orders Page
-
 -----------------------------------------------------------------------
 <H1 align ="center" > MERN BLOG  </h1>
 <h5  align ="center"> 
@@ -127,19 +108,65 @@ $ npm start dev (to start the backend)
 
 - Proper Landing page with recent Blogs
 - User registration and login
-- Authentication using JWT Tokens
+- Authentication using JWT Tokens and OAuth
 - Admin Dashboard 
-- Blog searching  and pagination 
-- CRUD operations
-       1) Blog create, read, update and delete
-       2) Comment  create, read, update and delete
-       3) Users create, read, update and delete
-- Upload user ımages and story ımages to the server
+- Blog searching  and pagination
+- Implemented a rich text editor for creating and formatting blog posts
+- CRUD operations </br>
+   &nbsp; &nbsp; &nbsp; &nbsp;    1) Blog create, read, update and delete </br>
+   &nbsp; &nbsp; &nbsp; &nbsp;    2) Comment  create, read, update and delete </br>
+   &nbsp; &nbsp; &nbsp; &nbsp;    3) Users create, read, update and delete </br>
+- Upload user ımages and story ımages to the server 
 - Liking  stories
 - Commenting  on the story
 - Responsive Design
-  
+
+## Screenshots
+
+### Home Page
+![Home Page-1][.\images\Home_Page.png]</br>
+![Home Page-2][.\images\Recent_Post.png]
+
+### Blogs Listing Page
+![Blogs Listing Page][.\images\Blogs.png]
+
+### Single Blog Page
+![Single Blog Page][.\images\Sample_Post.png]
+
+### About Page
+![About Page][.\images\About_Page.png]
+
+### Users Dashboard
+![Users Dashboard][.\images\User_Dashboard.png]
+
+### Admin Dashboard
+![Users Dashboard][.\images\User_Dashboard.png]
+
+### Create Post
+![Create Post][.\images\Create_Post.png]
+
+### Comments Section
+![Comments Section][.\images\Comments_Section.png]
+
 <!--
+### Home Page
+![Home Page][.\images\Posts.png]
+
+### Blogs Listing Page
+![Blogs Listing Page][.\images\Blogs.png]
+
+### User Authentication Pages
+
+### Single Product Page
+
+### Wishlist Page
+
+### Cart Page
+
+### Razorpay integration
+
+### Orders Page
+
 <br/>
 
 ##  Technologies used
