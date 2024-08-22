@@ -124,29 +124,29 @@ $ npm start dev (to start the backend)
 ## Screenshots
 
 ### Home Page
-![Home Page-1][.\images\Home_Page.png]</br>
-![Home Page-2][.\images\Recent_Post.png]
+![Home Page-1](.\images\Home_Page.png)</br>
+![Home Page-2](.\images\Recent_Post.png)
 
 ### Blogs Listing Page
-![Blogs Listing Page][.\images\Blogs.png]
+![Blogs Listing Page](.\images\Blogs.png)
 
 ### Single Blog Page
-![Single Blog Page][.\images\Sample_Post.png]
+![Single Blog Page](.\images\Sample_Post.png)
 
 ### About Page
-![About Page][.\images\About_Page.png]
+![About Page](.\images\About_Page.png)
 
 ### Users Dashboard
-![Users Dashboard][.\images\User_Dashboard.png]
+![Users Dashboard](.\images\User_Dashboard.png)
 
 ### Admin Dashboard
-![Users Dashboard][.\images\User_Dashboard.png]
+![Users Dashboard](.\images\User_Dashboard.png)
 
 ### Create Post
-![Create Post][.\images\Create_Post.png]
+![Create Post](.\images\Create_Post.png)
 
 ### Comments Section
-![Comments Section][.\images\Comments_Section.png]
+![Comments Section](.\images\Comments_Section.png)
 
 <!--
 ### Home Page
