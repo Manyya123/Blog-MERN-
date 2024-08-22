@@ -122,30 +122,31 @@ $ npm start dev (to start the backend)
 - Responsive Design
 
 ## Screenshots
-### Home Page
-![Home Page-1](./images/Home_Page.png)</br>
-![Home Page-2](./images/Recent_Post.png)
+## Home Page
+<img src="./images/Home_Page.png" alt="Home Page-1" width="400"/>
+<img src="./images/Recent_Post.png" alt="Home Page-2" width="400"/>
 
-### Blogs Listing Page
-![Blogs Listing Page](.\images\Blogs.png)
+## Blogs Listing Page
+<img src="./images/Blogs.png" alt="Blogs Listing Page" width="400"/>
 
-### Single Blog Page
-![Single Blog Page](.\images\Sample_Post.png)
+## Single Blog Page
+<img src="./images/Sample_Post.png" alt="Single Blog Page" width="400"/>
 
-### About Page
-![About Page](.\images\About_Page.png)
+## About Page
+<img src="./images/About_Page.png" alt="About Page" width="400"/>
 
-### Users Dashboard
-![Users Dashboard](.\images\User_Dashboard.png)
+## Users Dashboard
+<img src="./images/User_Dashboard.png" alt="Users Dashboard" width="400"/>
 
-### Admin Dashboard
-![Users Dashboard](.\images\Admin_Dashboard.png)
+## Admin Dashboard
+<img src="./images/Admin_Dashboard.png" alt="Admin Dashboard" width="400"/>
 
-### Create Post
-![Create Post](.\images\Create_Post.png)
+## Create Post
+<img src="./images/Create_Post.png" alt="Create Post" width="400"/>
 
-### Comments Section
-![Comments Section](.\images\Comments_Section.png)
+## Comments Section
+<img src="./images/Comments_Section.png" alt="Comments Section" width="400"/>
+
 
 <!--
 ### Home Page
