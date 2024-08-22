@@ -109,14 +109,15 @@ $ npm start dev (to start the backend)
 - Proper Landing page with recent Blogs
 - User registration and login
 - Authentication using JWT Tokens and OAuth
-- Admin Dashboard 
+- Admin Dashboard
+- Dark Mode
 - Blog searching  and pagination
 - Implemented a rich text editor for creating and formatting blog posts
 - CRUD operations </br>
    &nbsp; &nbsp; &nbsp; &nbsp;    1) Blog create, read, update and delete </br>
    &nbsp; &nbsp; &nbsp; &nbsp;    2) Comment  create, read, update and delete </br>
    &nbsp; &nbsp; &nbsp; &nbsp;    3) Users create, read, update and delete </br>
-- Upload user ımages and story ımages to the server 
+- Upload user ımages and blog ımages to the server 
 - Liking  stories
 - Commenting  on the story
 - Responsive Design
